@@ -1,0 +1,14 @@
+experiment,outcome,moves,return
+Step cost -2,TRAP,4,-7.0
+"Trap moved to (2, 2)",GOAL,6,0.8
+"Step cost 0, gamma 1",GOAL,6,1.0
+"Fast exploration decay, seed 0",GOAL,6,0.8
+"Fast exploration decay, seed 1",GOAL,6,0.8
+"Fast exploration decay, seed 2",GOAL,6,0.8
+"Fast exploration decay, seed 3",GOAL,6,0.8
+"Fast exploration decay, seed 4",GOAL,6,0.8
+"Original exploration schedule, seed 0",GOAL,6,0.8
+"Original exploration schedule, seed 1",GOAL,6,0.8
+"Original exploration schedule, seed 2",GOAL,6,0.8
+"Original exploration schedule, seed 3",GOAL,6,0.8
+"Original exploration schedule, seed 4",GOAL,6,0.8

@@ -1,0 +1,5 @@
+,0,1,2,3
+0,down,down,down,left
+1,down,down,down,TRAP
+2,right,down,down,down
+3,right,right,right,GOAL
